@@ -8,4 +8,10 @@ public class MyFirstGitClass {
             System.out.println("sum is :"+sumVal);
         }
     }
+
+    public  static void main(String args[]){
+            MyFirstGitClass obj = new MyFirstGitClass();
+            obj.sum(10,20);
+    }
+
 }
