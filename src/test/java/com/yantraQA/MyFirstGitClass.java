@@ -18,7 +18,7 @@ public class MyFirstGitClass {
     public  static void main(String args[]){
             MyFirstGitClass obj = new MyFirstGitClass();
            // obj.MyFirstGitClass(50,50);
-            obj.tableofNum(3);
+            obj.tableofNum(4);
     }
 
 }
